@@ -2,7 +2,7 @@
 
 The repository uses three image datasets located in the `data#1`, `data#2`  and `data#3` folders:
 
-### 📁 data#2 — Strawberry Detection Dataset
+### 📁 data#1 — Strawberry Detection Dataset
 - Binary classification task:
   - **Class 1**: Images containing at least part of a **strawberry**
   - **Class 0**: Images of other **berries** (raspberries, blueberries, rose hips, etc.), **fruits** (apples, bananas, pomegranates, etc.), **figs**, and **mint**
